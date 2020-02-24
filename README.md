@@ -8,6 +8,10 @@ You'll get 30 minutes to solve the problem (or attempt solving it!) then we'll l
 
 ## Getting Started
 
+**Fork and clone this repository!**
+
+In the directory you just cloned:
+
 1. Pull down the latest toy problem with: `git pull`
 
 2. Open your favorite text editor and try and solve the problem!
