@@ -23,19 +23,25 @@ findOldestAge(myArr);
 
 
 var findOldestAge = function(array) {
-  // YOUR CODE HERE
+  var maxAge = 0;
+  for (var i = 0; i < array.length; i++) {
+    if (array[0].age > maxAge) {
+      maxAge = array[0].age;
+    }
+  }
+  return maxAge;
 };
 
 // // Uncomment and copy into Chrome dev console to test your function!
-// var myArr = [
-//   {
-//     name: "Bill",
-//     age: 34
-//   },
-//   {
-//     name: "Derek",
-//     age: 16
-//   }
-// ];
-// console.log(findOldestAge(myArr));
+var myArr = [
+  {
+    name: "Bill",
+    age: 34
+  },
+  {
+    name: "Derek",
+    age: 16
+  }
+];
+console.log(findOldestAge(myArr));
 

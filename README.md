@@ -48,9 +48,13 @@ You'll get 30 minutes to solve the problem (or attempt solving it!) then we'll l
 
 ![](https://user-images.githubusercontent.com/40476562/75376031-69ef5f80-5873-11ea-9a30-5f2a7b0994a4.png)
 
-9. **Now you're ready to code! Open your favorite text editor and try and solve the problem!**
+9. **Now you're almost ready to code! In the *terminal* navigate to the directory you cloned down your toy problem repo
+- Checkout your master branch `git checkout master`
+- Then pull down the latest changes using `git pull`
 
-10. **Be sure to change to a new branch `git checkout -b your-branch-name`**
+10. **Now Open your favorite text editor and try and solve the problem!**
+
+11. **Be sure to change to a new branch `git checkout -b your-branch-name`**
 
 -  Push your changes back up to github!
   - `git add <filename>`
