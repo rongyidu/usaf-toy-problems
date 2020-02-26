@@ -14,5 +14,7 @@ vowelCounter("Hawaii")
  */
 
  var vowelCounter = function(string) {
-   // YOUR CODE HERE
- };
+  // YOUR CODE HERE
+};
+
+// console.log(vowelCounter("Banana"))
