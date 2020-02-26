@@ -40,7 +40,9 @@ You'll get 30 minutes to solve the problem (or attempt solving it!) then we'll l
 
 ![](https://user-images.githubusercontent.com/40476562/75375842-05cc9b80-5873-11ea-8993-7512958f3488.png)
 
-7. **Now if you go to your GitHub fork, you'll see an open pull request.. There shouldn't be any conflicts, but flag down an instructor if you run into any issues. Click "Merge pull request"**
+7. **Now you should see your open pull request. There shouldn't be any conflicts, but flag down an instructor if you run into any issues. Click "Merge pull request"**
+
+> If you don't get automatically taken to the merge request page you may need to navigate to your fork and click the Pull Request button again, it should show you a list of all open Pull Requests and you can click it and merge from here!
 
 ![](https://user-images.githubusercontent.com/40476562/75375926-36acd080-5873-11ea-88a9-f9961b170682.png)
 
